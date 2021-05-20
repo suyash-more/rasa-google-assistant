@@ -3,7 +3,7 @@
 
 ![img](rasa2.png)
 
->#####This repository contains the code of the tutorial of connecting Rasa-powered assistant to Google Assistant. You can find the step-by-step tutorial here.
+This repository contains the code of the tutorial of connecting Rasa-powered assistant to Google Assistant. You can find the step-by-step tutorial here.
 
 ## Repository file Info?
 
